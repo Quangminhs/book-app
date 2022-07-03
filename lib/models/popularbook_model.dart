@@ -1,7 +1,7 @@
 class PopularBookModel {
   String title, author, price, image, description;
 
-  // int? color;
+   //int color;
 
   PopularBookModel(
       this.title, this.author, this.price, this.image, this.description);
